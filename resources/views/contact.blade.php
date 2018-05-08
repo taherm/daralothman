@@ -29,7 +29,7 @@
 										<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required>
 									</div>
 									<div class="form-group col-lg-6">
-										<label>بريدك الإلكتروني (مطلوب</label>
+										<label>بريدك الإلكتروني (مطلوب)</label>
 										<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required>
 									</div>
 								</div>
@@ -46,7 +46,7 @@
 									</div>
 								</div>
 								<div class="form-row">
-									<div class="form-group col">
+									<div class="form-group col text-center">
 										<input type="submit" style="background-color:goldenrod;color:black;border:black;" value="إرسال" class="btn btn-primary btn-lg" data-loading-text="Loading...">
 									</div>
 								</div>
