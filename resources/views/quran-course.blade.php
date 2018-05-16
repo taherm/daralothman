@@ -5,7 +5,8 @@
 <div class="container">
             <div class="row">
             <div class="col-lg-9 text-justify" style="padding-right:50px;padding-left:90px">
-            
+            <img src="{{asset('/uploads/abdullah_othman.jpg')}}" width="300" height="300">
+            <br><br>
 <p>
 دورة المرحوم عبدالله عبداللطيف العثمان لتحفيظ القرآن الكريم
 </p>

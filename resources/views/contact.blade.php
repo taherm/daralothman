@@ -22,7 +22,8 @@
 							</div>
 
 						
-							<form id="contactForm" action="" method="POST">
+							<form id="contactForm" action="/send-mail" method="POST">
+							{{ csrf_field() }}
 								<div class="form-row">
 									<div class="form-group col-lg-6">
 										<label>أسمك الكريم (مطلوب)</label>

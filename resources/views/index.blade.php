@@ -5,9 +5,7 @@
 					<ul>
 					<li data-transition="fade">
 
-<img src="{{asset('uploads/home.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
- data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="150" data-scaleend="100" data-rotatestart="0"
- data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="0" class="rev-slidebg">
+<img src="{{asset('/uploads/home.jpg')}}" alt="" data-bgfit="round" data-bgrepeat="round">
 
 
 </li>
@@ -43,6 +41,8 @@
 					</div>
 				
 				</div>
+	
 				
+
 				
 @endsection

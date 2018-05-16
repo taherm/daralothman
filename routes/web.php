@@ -57,3 +57,6 @@ Route::get('/versions', function () {
 Route::get('/abdullah-othman', function () {
     return view('abdullah-othman');
 });
+
+
+Route::post('/send-mail','ContactController@send');

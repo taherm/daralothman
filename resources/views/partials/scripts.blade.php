@@ -15,7 +15,7 @@
 		<script src="{{asset('vendor/owl.carousel/owl.carousel.min.js')}}"></script>
 		<script src="{{asset('vendor/magnific-popup/jquery.magnific-popup.min.js')}}"></script>
 		<script src="{{asset('vendor/vide/vide.min.js')}}"></script>
-		
+		<script src="{{asset('/js/instafeed.min.js')}}"></script>
 
 
 
@@ -38,11 +38,11 @@
 		<script type="text/javascript">
     var feed = new Instafeed({
       get: 'user',
-      userId: '14927392',
+      userId: '201923325',
       limit:'8',
       resolution:'low_resolution',
-      accessToken: '14927392.8f4c5bf.cafc2df6c80d43769a6e49372ca010b1',
-      template: '  <div class="col-sm-3"><a href="@{{link}}"><img src="@{{image}}" class="img-thumbnail img-responsive"/></a> </div>'
+      accessToken: '201923325.1677ed0.1bd411c16d6948a8914cae259664e804',
+      template: '  <div class="col-md-3"><a href="@{{link}}"><img src="@{{image}}" class="img-thumbnail img-responsive"/></a> </div>'
             });
     feed.run();
 </script>

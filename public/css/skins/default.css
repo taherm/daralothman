@@ -2361,7 +2361,7 @@ html[dir="rtl"] #header .tip-light:before {
   border-right-color: transparent !important;
 }
 #header .header-btn-collapse-nav {
-  background: #0088cc;
+  background: black;
 }
 @media (min-width: 992px) {
   #header .header-nav-main nav > ul > li > a {
@@ -2751,7 +2751,7 @@ html[dir="rtl"] #header .tip-light:before {
 }
 @media (max-width: 991px) {
   #header .header-nav-main nav > ul > li > a {
-    color: #0088cc;
+    color: black;
   }
   #header .header-nav-main nav > ul > li > a:active {
     color: #0088cc;
