@@ -49,6 +49,14 @@
 																</a>
 															</li>
 
+
+<li class="header-link">
+																<a class="nav-link" href="#">
+																
+المشاريع الخيرية
+																</a>
+															</li>
+
 															<li class="header-link">
 																<a class="nav-link" href="/reserve-hall">
 																حجز القاعات
@@ -59,7 +67,7 @@
 <li class="dropdown">
 																<a class="dropdown-item dropdown-toggle" href="#">
 																
-ميديا
+أنشطة الدار
 																</a>
 																<ul class="dropdown-menu">
 																	<li><a class="dropdown-item" href="/youtube">يوتيوب</a></li>
@@ -71,6 +79,14 @@
 <li class="header-link">
 																<a class="nav-link" href="/contact">
 																اتصل بنا
+
+																</a>
+															</li>
+
+
+<li class="header-link">
+																<a class="nav-link" href="#">
+														أخر الأخبار 
 
 																</a>
 															</li>

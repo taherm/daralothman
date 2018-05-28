@@ -1,16 +1,16 @@
 <?php $__env->startSection('slider'); ?>
-<div class="slider-container light rev_slider_wrapper">
-				<div id="revolutionSlider" class="slider rev_slider" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 500, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500]}">
-					<ul>
-					<li data-transition="fade">
-
-<img src="<?php echo e(asset('/uploads/home.jpg')); ?>" alt="" data-bgfit="round" data-bgrepeat="round">
 
 
-</li>
-						</ul>
-					</div>
-				</div>
+
+				<div class="container-fluid" style="background:#FFF0DD">
+				<div class="row">
+				<div class="col-lg-12">
+	
+<img src="<?php echo e(asset('/uploads/home.jpg')); ?>" width="100%" height="auto">
+	
+				</div></div>
+</div>
+
 				<?php $__env->stopSection(); ?>
 <?php $__env->startSection('content'); ?>
 				

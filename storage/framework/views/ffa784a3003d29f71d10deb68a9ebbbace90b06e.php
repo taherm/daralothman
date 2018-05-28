@@ -40,8 +40,7 @@
 <li>
 إعداد و تنفيذ برامج ودورات تدريبية وإقامتها داخل وخارج الدار.
 </li>
-<br>
-<img src="<?php echo e(asset('/uploads/hall2.jpg')); ?>" width="300" height="300"/>
+
 <br/>
 <br/>
 <h3>
@@ -122,12 +121,21 @@
 </p>
 
 
+<p class="text-center" style="color:goldenrod">
+<b>
+لحجز القاعات الرجاء الاتصال  علي  22654254   او ارسال ايميل dar.alothman@gmail.com
+</b>
+</p>
+
+
 
 		</div>
         <div class="col-lg-3">
 
 <img src="<?php echo e(asset('/uploads/hall1.jpg')); ?>" width="300" height="300">
-
+<br>
+<br>
+<img src="<?php echo e(asset('/uploads/hall2.jpg')); ?>" width="300" height="300"/>
         </div>
         </div>
 				
