@@ -3,9 +3,7 @@
 
 <br><br>
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
-				<div class="container">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27821.97628056004!2d48.00309303955079!3d29.348408500000012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3fcf9c954bc134bf%3A0xd61dc71d2af95114!2sDar+AlOthman!5e0!3m2!1sen!2skw!4v1525588741096" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
-				</div>
+			
 
 				<div class="container">
 
@@ -19,7 +17,7 @@
 							<br>
 							<h2 class="mb-3 mt-2">	<p> الخط الساخن :94458655</p></h2>
 							<br>
-							<h2 class="mb-3 mt-2">	<p> فاكس :22 654354</p></h2>
+							<h2 class="mb-3 mt-2">	<p> فاكس : 22654354</p></h2>
 							
 						</div>
 
@@ -72,7 +70,10 @@
 
 
 					</div>
-
+					<br><br>
+					<div class="container">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27821.97628056004!2d48.00309303955079!3d29.348408500000012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3fcf9c954bc134bf%3A0xd61dc71d2af95114!2sDar+AlOthman!5e0!3m2!1sen!2skw!4v1525588741096" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</div>
 				</div>
 
 			@endsection

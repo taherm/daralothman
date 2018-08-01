@@ -50,13 +50,6 @@
 															</li>
 
 
-<li class="header-link">
-																<a class="nav-link" href="#">
-																
-المشاريع الخيرية
-																</a>
-															</li>
-
 															<li class="header-link">
 																<a class="nav-link" href="/reserve-hall">
 																حجز القاعات
@@ -83,13 +76,6 @@
 																</a>
 															</li>
 
-
-<li class="header-link">
-																<a class="nav-link" href="#">
-														أخر الأخبار 
-
-																</a>
-															</li>
 
 															
 														</ul>
