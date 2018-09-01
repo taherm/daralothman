@@ -122,6 +122,9 @@
 يوجد طاولة تقديم، وسخان، ويوجد داتا شو وميكروفونات
 </p>
 
+<p>
+<a href="/uploads/reserve_hall.pdf">لتحميل الاستمارة اضغط هنا </a>
+</p>
 
 <p class="text-center" style="color:goldenrod">
 <b>
@@ -134,10 +137,7 @@
 		</div>
         <div class="col-lg-3">
 
-<img src="{{asset('/uploads/hall1.jpg')}}" width="300" height="300">
-<br>
-<br>
-<img src="{{asset('/uploads/hall2.jpg')}}" width="300" height="300"/>
+<img src="{{asset('/uploads/hall2.jpg')}}" width="300" height="300">
         </div>
         </div>
 				

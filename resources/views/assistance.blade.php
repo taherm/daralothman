@@ -22,7 +22,7 @@
  </p>
 
 <p>
-<a href="/uploads/help_form.pdf">إستمارة المساعدات</a>
+<a href="/uploads/help_form.pdf">إستمارة المساعدات اضغط هنا </a>
 </p>
 </div>
 
