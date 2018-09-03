@@ -20,10 +20,12 @@
 			</li>
 			<li>
 
-				<img src="{{asset('uploads/home.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+				<img src="{{asset('uploads/home2.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 
 
 			</li>
+			
+			
 		</ul>
 	</div>
 </div>
