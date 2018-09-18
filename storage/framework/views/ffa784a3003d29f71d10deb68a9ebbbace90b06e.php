@@ -126,7 +126,7 @@
 
 <p class="text-center" style="color:goldenrod">
 <b>
-لحجز القاعات الرجاء الاتصال  علي  22654254   او ارسال ايميل dar.alothman@gmail.com
+لحجز القاعات الرجاء الاتصال  علي  22654354   او ارسال ايميل dar.alothman@gmail.com
 </b>
 </p>
 
