@@ -24,7 +24,26 @@
 
 
 			</li>
-			
+			<li>
+
+				<img src="{{asset('uploads/home5.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+			</li>
+			<li>
+
+				<img src="{{asset('uploads/home4.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+			</li>
+
+
+			<li>
+
+				<img src="{{asset('uploads/home1.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+			</li>			
 			
 		</ul>
 	</div>
