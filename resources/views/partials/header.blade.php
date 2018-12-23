@@ -65,7 +65,7 @@
 																<ul class="dropdown-menu">
 																	<li><a class="dropdown-item" href="/youtube">يوتيوب</a></li>
 																	<li><a class="dropdown-item" href="/instagram">الانستقرام</a></li>
-																	<li><a class="dropdown-item" href="/album">صور</a></li>
+																	<!--<li><a class="dropdown-item" href="/album">صور</a></li>-->
 																</ul>
 															</li>
 

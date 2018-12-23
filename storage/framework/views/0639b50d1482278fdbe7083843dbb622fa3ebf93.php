@@ -15,7 +15,7 @@
 </p>
 
 <p>
-<a href="/uploads/quran_form.png">لتحميل الاستمارة اضغط هنا </a>
+<a href="/uploads/quran_form.jpg">لتحميل الاستمارة اضغط هنا </a>
 </p>
 
 
@@ -26,7 +26,7 @@
 
 <img src="<?php echo e(asset('/uploads/quran1.png')); ?>" width="300" height="300">
 
-<img src="<?php echo e(asset('/uploads/quran2.png')); ?>" width="300" height="300">
+<img src="<?php echo e(asset('/uploads/quran_form.jpg')); ?>" width="300" height="300">
 
         </div>
 
